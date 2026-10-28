@@ -1,5 +1,6 @@
 
 # CSV Migration Validator
+[![CSV Validator Tests](https://github.com/prakritee07/csv-migration-validator/actions/workflows/tests.yml/badge.svg)](https://github.com/prakritee07/csv-migration-validator/actions/workflows/tests.yml)
 
 A Python command-line tool that compares two CSV exports and generates a report of data changes. This learning project demonstrates data validation techniques that can be useful during system migrations.
 
